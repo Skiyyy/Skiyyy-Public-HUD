@@ -5,6 +5,8 @@
 	<p align="center" style="font-weight:400;">Powered by <a href='https://github.com/lexogrine/hud-manager'><strong>« Lexogrine HUD Manager »</strong></a></p>
 </p>
 
+# NPM IS ALREADY INSTALLED USE NPM START TO START IT
+
 # Lexogrine HUD
 
   
