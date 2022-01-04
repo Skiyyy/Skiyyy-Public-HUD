@@ -61,7 +61,7 @@ Fullfledged example of the React HUD made for HUD Manager. It has:
 
 # Download
 
-To download it just click here: [DOWNLOAD HUD](https://github.com/lexogrine/csgo-react-hud/releases/latest)
+To download it just click here: [DOWNLOAD HUD](https://github.com/Skiyyy/Skiyyy-Public-HUD/releases)
 
 # Instruction
 ## Setting up
